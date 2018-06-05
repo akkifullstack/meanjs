@@ -1,0 +1,22 @@
+[{
+	"_id": {
+		"$oid": "5a84516a305d5b07cf212dd0"
+	},
+	"name": "TAJ",
+	"location": "Mumbai"
+},
+{
+	"_id": {
+		"$oid": "5a84516a305d5b07cf212dd1"
+	},
+	"name": "Rassa",
+	"location": "PKL"
+},
+{
+	"_id": {
+		"$oid": "5a84516a305d5b07cf212dd2"
+	},
+	"name": "AROMA",
+	"location": "CHD"
+}]
+
